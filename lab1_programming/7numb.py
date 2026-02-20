@@ -1,0 +1,8 @@
+name=str(input())
+print(name + "-чемпион!")
+print("-"*len(name))
+print(name.lower())
+print(len(name))
+print("п" in name)
+print(name.count("а"))
+print(name.count("А"))
