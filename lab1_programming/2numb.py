@@ -1,5 +1,0 @@
-x=int(input())
-z=int(input())
-y=int(input())
-f=((x**5+7)/(6*y))**(1/3)/(7-z%y)
-print(round(f,3))
